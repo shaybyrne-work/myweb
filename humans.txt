@@ -11,4 +11,4 @@ Standards: HTML5, CSS3
 Tools: GitHub Pages, Cloudflare, VS Code
 
 /* THANKS */
-Powered by coffee, curiosity, and Home Automation.
+Powered by Coffee, Curiosity, and Home Automation.
