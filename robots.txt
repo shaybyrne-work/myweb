@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shaybyrne.ca/sitemap.xml
